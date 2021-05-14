@@ -2,6 +2,14 @@
 
 A Belfast based software Developer. Available to help you with all your front end and backend needs. Proficient in a number of languages and frameworks. Currently delving into the React world to add another string to my bow. please check out my reposities to showcase my work!
 
+---
+
+🧰 Toolbox
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
+
+
+
 <!--
 **martinmaguire89/martinmaguire89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
