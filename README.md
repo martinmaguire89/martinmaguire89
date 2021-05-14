@@ -1,4 +1,4 @@
-### Hi there 👋I'm Martin Maguire, a Software developer from Northern Ireland.
+### Hi there 👋 I'm Martin Maguire!
 
 <!--
 **martinmaguire89/martinmaguire89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
