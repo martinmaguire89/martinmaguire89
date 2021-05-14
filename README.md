@@ -1,7 +1,9 @@
 ### Hi there 👋 I'm Martin Maguire!
 
-A Belfast based software Developer. Available to help you with all your front end and backend needs. Proficient in a number of languages and frameworks. Currently delving into the React world to add another string to my bow. please check out my reposities to showcase my work!
-
+  A Belfast based software Developer.  Proficient in HTML, CSS, JavaScript, and Python. 
+Providing highly accurate quality of projects using strong problems solving skills in the office or remotely. 
+Strong experience with client facing services and data analysis as a subject matter expert.                                                     
+Currently learning React and interested in any and all front and back-end opportunities.  Check out my own website at [martinmaguire.com](http://martinmaguire.com/)
 ---
 
 🧰 Toolbox
